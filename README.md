@@ -1,5 +1,5 @@
 # Teste_de_Software
-Grupo: GGLM
+## Grupo: GGLM
 
 ### Integrantes:  
 Gustavo Rodrigues Lopes - TIA: 32026840 ||
